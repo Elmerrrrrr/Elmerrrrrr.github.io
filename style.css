@@ -63,6 +63,15 @@ text-transform: uppercase;
 
 }
 
+.btn-xl:active{
+
+  padding: 1rem 2rem;
+  background-color: rgb(73, 49, 4);
+  border-color: orange;
+  border: 4px;
+
+}
+
 
 
 
