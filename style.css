@@ -54,6 +54,20 @@ text-transform: uppercase;
 
 }
 
+a > .btn-xl{
+  color:white;
+}
+
+.btn-xl:visited{
+
+  padding: 1rem 2rem;
+  background-color:red;
+  border-color: red;
+  border: 4px;
+
+}
+
+
 .btn-xl:hover{
 
   padding: 1rem 2rem;
